@@ -1,0 +1,8 @@
+p=i; Errado
+q=&j; Verdadeiro
+p=&*&i;Verdadeiro
+i=(*&)j; Errado
+i=*&j; Verdadeiro
+i=*&*&j;Verdadeiro
+q=*p; Errado
+i=(*p)++ + *q; Verdadeiro

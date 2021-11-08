@@ -1,0 +1,4 @@
+para um vetor mat[4]={1,2,3,4}
+
+- A expressão "p=mat+1" é válida e ao consultar o valor *p é mostrado 2, pois esse +1 ele 
+"aponta" para o ponteiro que representa o próximo índice do vetor.

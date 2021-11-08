@@ -1,0 +1,21 @@
+Endereço de memória: 4092
+
+- x como char   
+    x+1 = 4093
+    x+2 = 4094
+    x+3 = 4095
+
+- x como int
+    x+1 = 4094
+    x+2 = 4096
+    x+3 = 4098
+
+- x como float
+    x+1 = 4096
+    x+2 = 4050
+    x+3 = 4054
+
+- x como double
+    x+1 = 4050
+    x+2 = 4058
+    x+3 = 4064

@@ -1,0 +1,2 @@
+- No 1º código imprime os valores que estão no vetor
+- No 2º código imprime os espaços de memória em que o vetor está alocado
