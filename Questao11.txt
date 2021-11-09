@@ -1,0 +1,7 @@
+- Os seguintes comandos são válidos:
+    aloha[2] = value;
+    printf("%f",&aloha);
+    printf("%f",aloha);
+    coisas[4][4] = aloha[3];
+    pf=aloha;
+
