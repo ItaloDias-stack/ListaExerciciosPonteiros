@@ -1,0 +1,5 @@
+Os ponteiros para funções servem para guardar endereços de áreas de códigos.
+Isso pode ser usado de algumas formas, como por exemplo passar funções como parâmetro 
+de outroas funções. Mas, esse tipo de código também serve como uma forma de organizar código,
+pois é possível usa-los como array, ou seja, colocar várias funções em um ponteiro, transformando
+o código em uma forma primitiva de orientada a objetos.
