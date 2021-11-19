@@ -1,0 +1,1 @@
+Após alguns testes e notavel que a utilização de ponteiros diminui consideravalmente o tempo de processamento do codigo. Com o uso do ponteiro o codigo chegou a gastar 4798ms, sem o uso deste chegou 5842ms.
